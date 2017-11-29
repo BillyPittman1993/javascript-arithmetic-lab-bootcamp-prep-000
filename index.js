@@ -1,1 +1,2 @@
-add()
+add(a, b)
+return add()
